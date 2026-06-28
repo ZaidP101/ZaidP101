@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Software Engineer with a strong foundation in computer applications and hands-on experience building real-world software systems, including custom CRM development from the ground up. Experienced in designing scalable database architectures, building robust backend services, and deploying applications on Linux servers.
 
@@ -17,7 +17,11 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 **Languages**
 
@@ -65,9 +69,18 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 `DSA` · `OOP` · `OS` · `DBMS` · `Computer Networks`
 
+</td>
+<td valign="top" width="40%">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaidP101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -85,14 +98,14 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 ---
 
-## ⏱️ WakaTime Coding Activity
+## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/ZaidP101/DocuMate">
@@ -114,7 +127,7 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZaidP101/ZaidP101/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
