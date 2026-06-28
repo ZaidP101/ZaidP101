@@ -21,27 +21,45 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td width="50%" valign="top">
 
-**Languages**
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Backend**
+</td>
+
+<td width="50%" rowspan="2" align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-**Frontend**
+</td>
+</tr>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+<tr>
+<td colspan="2">
 
-**APIs & Tools**
+### APIs & Integration
 
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -49,13 +67,25 @@ Skilled in collaborative development workflows and maintaining code quality thro
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Databases**
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Tools**
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -65,17 +95,19 @@ Skilled in collaborative development workflows and maintaining code quality thro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**CS Fundamentals**
-
-`DSA` · `OOP` · `OS` · `DBMS` · `Computer Networks`
-
 </td>
-<td valign="top" width="40%">
+</tr>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<tr>
+<td colspan="2">
+
+### CS Fundamentals
+
+`DSA` • `OOP` • `OS` • `DBMS` • `Computer Networks`
 
 </td>
 </tr>
+
 </table>
 
 ---
