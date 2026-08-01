@@ -141,19 +141,19 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 <p align="center">
   <a href="https://github.com/ZaidP101/DocuMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaidP101&repo=DocuMate&theme=tokyonight&hide_border=true" width="45%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=DocuMate&theme=tokyonight&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/ZaidP101/TaskRadar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaidP101&repo=TaskRadar&theme=tokyonight&hide_border=true" width="45%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=TaskRadar&theme=tokyonight&hide_border=true" width="45%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZaidP101/Smart-Email-Reply-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaidP101&repo=Smart-Email-Reply-Assistant&theme=tokyonight&hide_border=true" width="45%" />
-  </a>
+  <a href="https://github.com/ZaidP101/FlashMail.ai">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=FlashMail%2Eai&theme=tokyonight&hide_border=true" width="45%" />
+</a>
   <a href="https://github.com/ZaidP101/BFit_MicroServices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZaidP101&repo=BFit_MicroServices&theme=tokyonight&hide_border=true" width="45%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=BFit_MicroServices&theme=tokyonight&hide_border=true" width="45%" />
   </a>
 </p>
 
