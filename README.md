@@ -130,13 +130,6 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 ---
 
-## WakaTime Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## Featured Projects
 
 <p align="center">
@@ -159,19 +152,11 @@ Skilled in collaborative development workflows and maintaining code quality thro
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZaidP101/ZaidP101/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZaidP101&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ZaidP101?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
 </p>
 
 <p align="center">
-  <i>💭 "Learning never stops."</i>
+  <i>💭 "Updating...."</i>
 </p>
