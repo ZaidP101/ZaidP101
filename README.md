@@ -142,9 +142,9 @@ Skilled in collaborative development workflows and maintaining code quality thro
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZaidP101/FlashMail_ai">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=FlashMail_ai&theme=tokyonight&hide_border=true" width="45%" />
-</a>
+ <a href="https://github.com/ZaidP101/FlashMail_ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=flashmail_ai&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
   <a href="https://github.com/ZaidP101/BFit_MicroServices">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=ZaidP101&repo=BFit_MicroServices&theme=tokyonight&hide_border=true" width="45%" />
   </a>
